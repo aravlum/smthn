@@ -1,0 +1,104 @@
+
+.first{
+  background-image: url("css pics/6.jpg");
+  height: 800px;
+  width: 100%;
+}
+.second{
+  background-color: #E8ECE4;
+  height: 300px;
+  margin-top: 40px;
+  width: 100%;
+}
+.row{
+  background-color: #E8ECE4;
+  border: solid 3px;
+  width: 100%;
+  padding:5% 5%;
+}
+
+.dislacreme{
+  color: #36112B;
+}
+.discb{
+  color: #36112B;
+}
+.disrafe{
+  color: #36112B;
+}
+.navbar-brand{
+  font-family:fantasy;
+}
+.form{
+  background-color: #ddbea9;
+  border: solid 3px;
+  padding: 5%;
+  margin: 5% 35%;
+}
+.card-deck{
+  margin: 100px;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #e9e9e9;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  background-color: #ddd;
+  color: black;
+}
+.active {
+  background-color: white ;
+  color: white;
+}
+.search {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+#str {
+position: relative;
+width:400px ;
+padding: 20px 30px;
+height: auto;
+font-family: cursive;
+font-size: 40px;
+margin: 40px auto;
+color: #000;
+background: #fff;
+}
+
+#myMenu {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+#heading {
+  font-size: 60px;
+  color: white;
+  padding-top: 370px;
+  font-family:cursive;
+}
+#additional{
+  font-size: 40px;
+  font-family: cursive;
+  padding-top: 100px;
+}
+#form{
+  font-family: cursive;
+  font-size: 30px;
+  padding-left: 0;
+}
+#table{
+  font-size: 18px;
+  font-family: cursive;
+}
